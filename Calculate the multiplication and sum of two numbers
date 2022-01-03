@@ -1,4 +1,4 @@
-## Exercise 1: Calculate the multiplication and sum of two numbers
+## Calculate the multiplication and sum of two numbers
 ## Multiplication and Sum
 Number_1 = int(input("Enter Number 1: "))
 Number_2 = int(input("Enter Number 2: "))
