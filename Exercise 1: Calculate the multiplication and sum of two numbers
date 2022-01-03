@@ -1,0 +1,8 @@
+## Exercise 1: Calculate the multiplication and sum of two numbers
+## Multiplication and Sum
+Number_1 = int(input("Enter Number 1: "))
+Number_2 = int(input("Enter Number 2: "))
+Multiplication = Number_1 * Number_2
+Sum = Number_1 + Number_2
+print("Multiplication of two numbers = {M}".format (M = Multiplication))
+print("Sum of two numbers = {S}".format (S = Sum))
