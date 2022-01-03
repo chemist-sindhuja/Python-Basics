@@ -1,0 +1,5 @@
+#Variables -- Identifiers are the names used to identify things in your code -- An identifier is just a name label,
+#Python is generally case-sensitive,
+variable="Name" 
+Variable="NAME"
+print (Variable)
